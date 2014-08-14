@@ -28,7 +28,8 @@ function inicio(){
 	ratata.gritar();
 }
 
-
+var hola;
+var adios;
 //var bulbasaur = new Pokemon("Bulbasaur", 90, 50);
 
 /*Forma de crear funcion
