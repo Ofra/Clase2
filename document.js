@@ -29,7 +29,7 @@ function inicio(){
 }
 
 
-var bulbasaur = new Pokemon("Bulbasaur", 90, 50);
+//var bulbasaur = new Pokemon("Bulbasaur", 90, 50);
 
 /*Forma de crear funcion
 function Pokemon(nombrePokemon,vidaPoke, ataPoke){
